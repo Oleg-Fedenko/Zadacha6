@@ -9,5 +9,5 @@
             }
             else
             {
-                Console.WriteLine("Число " + number + "является: чётным");
+                Console.WriteLine("Число " + number + " является: чётным");
             }
